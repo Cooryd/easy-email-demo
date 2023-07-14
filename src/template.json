@@ -1,0 +1,64 @@
+{
+  "type": "page",
+  "data": {
+    "value": {
+      "breakpoint": "480px",
+      "headAttributes": "",
+      "font-size": "14px",
+      "line-height": "1.7",
+      "headStyles": [
+        { "content": "table, td {border-collapse: separate;} tr {border-collapse: separate;}" }
+      ],
+      "fonts": [],
+      "responsive": true,
+      "font-family": "lucida Grande,Verdana,Microsoft YaHei",
+      "text-color": "#000000",
+      "font-weight": "400"
+    }
+  },
+  "attributes": {
+    "background-color": "#8334C2",
+    "width": "600px",
+    "padding": "60px",
+    "css-class": "mjml-body"
+  },
+  "children": [
+    {
+      "type": "advanced_spacer",
+      "data": {
+        "value": {}
+      },
+      "attributes": {
+        "height": "20px",
+        "padding": "   "
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_wrapper",
+      "data": {
+        "value": {}
+      },
+      "attributes": {
+        "padding": "20px 0px 20px 0px",
+        "border": "none",
+        "direction": "ltr",
+        "text-align": "center",
+        "background-color": "#FFFFFF",
+        "border-radius": "16px"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_spacer",
+      "data": {
+        "value": {}
+      },
+      "attributes": {
+        "height": "20px",
+        "padding": "   "
+      },
+      "children": []
+    }
+  ]
+}
